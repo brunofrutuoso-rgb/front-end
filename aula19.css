@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    }
+    h1{
+    color: rgb(0, 0, 0);
+    background-color:rgb(11, 43, 184);
+    }
+    h2{
+    color: rgb(65, 56, 56);
+    }
+    p{
+    text-align: justify;
+    }
